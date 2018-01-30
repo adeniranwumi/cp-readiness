@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is EE42-5270
+
+ Directory of C:\Users\ADES\Desktop\cp-readiness
+
+01/30/2018  01:20 PM    <DIR>          .
+01/30/2018  01:20 PM    <DIR>          ..
+01/30/2018  01:07 PM                64 README.md
+01/30/2018  01:20 PM                 0 tea.txt
+               2 File(s)             64 bytes
+               2 Dir(s)  111,848,165,376 bytes free
